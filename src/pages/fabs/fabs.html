@@ -1,0 +1,35 @@
+<ion-header>
+    <ion-navbar>
+        <button ion-button menuToggle (click)="goback()">
+          <ion-icon ios="ios-arrow-back" md="md-arrow-back"></ion-icon>
+          </button>
+          
+      <ion-title>
+        Floating Action Button
+      </ion-title>
+          <ion-searchbar (ionInput)="getItems($event)"></ion-searchbar>
+          <ion-list>
+            <ion-item *ngFor="let item of items">
+              {{ item }}
+            </ion-item>
+          </ion-list>
+          
+    </ion-navbar>
+  </ion-header>
+
+  <ion-content>
+    <ion-fab right bottom>
+      <button ion-fab color="dark"><ion-icon name="add-circle"></ion-icon></button>
+      <ion-fab-list side="left">
+        <button ion-fab (click)="Facebook2()"><ion-icon name="logo-facebook"></ion-icon></button>
+        <button ion-fab (click)="YouTube2()"><ion-icon name="logo-youtube"></ion-icon></button>
+        <button ion-fab (click)="Twitter2()"><ion-icon name="logo-twitter"></ion-icon></button>
+        <button ion-fab (click)="Google2()"><ion-icon name="logo-googleplus"></ion-icon></button>
+      </ion-fab-list>
+    </ion-fab>
+  </ion-content>
+
+
+    <ion-content padding>
+      <button ion-button block light (click)="Hello1()">Show Radio Alert</button>
+    </ion-content>

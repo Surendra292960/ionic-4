@@ -1,0 +1,16 @@
+div.buttonbar4 {
+    text-align: center;
+    width: 100%;
+    white-space: nowrap;
+    button {
+        width: 100%;
+        height: 40px;
+        ion-col {
+            text-align: center;
+            ion-icon {
+                /* margin-bottom controls the space between the icons and text */
+                margin-bottom: 3px;   
+            }
+        }
+    }
+}

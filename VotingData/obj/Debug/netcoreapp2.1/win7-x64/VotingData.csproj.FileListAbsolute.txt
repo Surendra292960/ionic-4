@@ -1,0 +1,17 @@
+G:\C#.NetPrograms\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+G:\C#.NetPrograms\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+G:\C#.NetPrograms\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.exe
+G:\C#.NetPrograms\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.deps.json
+G:\C#.NetPrograms\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.runtimeconfig.json
+G:\C#.NetPrograms\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.runtimeconfig.dev.json
+G:\C#.NetPrograms\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.dll
+G:\C#.NetPrograms\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.csprojAssemblyReference.cache
+G:\C#.NetPrograms\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.RazorAssemblyInfo.cache
+G:\C#.NetPrograms\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.RazorAssemblyInfo.cs
+G:\C#.NetPrograms\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.AssemblyInfoInputs.cache
+G:\C#.NetPrograms\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.AssemblyInfo.cs
+G:\C#.NetPrograms\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.RazorTargetAssemblyInfo.cache
+G:\C#.NetPrograms\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.pdb
+G:\C#.NetPrograms\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.dll
+G:\C#.NetPrograms\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.pdb

@@ -1,0 +1,24 @@
+<ion-header>
+    
+    <ion-navbar>
+        <button ion-button menuToggle (click)="goback()">
+            <ion-icon ios="ios-arrow-back" md="md-arrow-back"></ion-icon>
+            </button>
+      <ion-title>Alert Controll</ion-title>
+    </ion-navbar>
+  </ion-header>
+
+  <ion-content >
+    <button ion-button block (click)="presentAlert()">
+      Show Alert Controll
+    </button><br><br>
+  
+      <button ion-button block (click)="presentConfirm()">
+        Show Confirm Controll
+      </button><br><br>
+
+
+        <button ion-button block (click)="presentPrompt()">
+          Show Prompt Controll
+        </button>
+      </ion-content>

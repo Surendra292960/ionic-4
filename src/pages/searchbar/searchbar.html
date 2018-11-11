@@ -1,0 +1,30 @@
+<ion-header>
+
+    <ion-navbar>
+  
+      <button ion-button menuToggle>     
+        <ion-icon name="menu"></ion-icon>
+        <ion-title>Boards</ion-title>
+      </button>
+      <ion-searchbar></ion-searchbar>   
+      
+      <ion-toolbar no-border-top>
+        <ion-segment [(ngModel)]="segment" (ionChange)="update()">
+          <ion-segment-button value="favorite">
+            Favorite
+          </ion-segment-button>
+          <ion-segment-button value="teamwork">
+            Teamwork
+          </ion-segment-button>
+          <ion-segment-button value="followed">
+            Followed
+          </ion-segment-button>
+          <ion-segment-button value="shared-with-me">
+            Shared with me
+          </ion-segment-button>
+        </ion-segment>
+      </ion-toolbar>
+  
+    </ion-navbar>
+  
+  </ion-header>
